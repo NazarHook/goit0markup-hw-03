@@ -51,6 +51,9 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 color: #4D5AE5;
 }
+.page-header{
+    padding-top: 25.5px;
+}
 .footer-logo-part{
 font-family: "Raleway", sans-serif;
 font-size: 18px;
