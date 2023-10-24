@@ -75,7 +75,6 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.32px;
 color: var(--NAVY-BLUE, #2E2F42);
-padding: 24px 0 ;
 }
 .nav-names:hover,
 .nav-names:focus{
@@ -336,18 +335,19 @@ color: var(--CLOUD, #F4F4FD);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding: 24px 0 ;
 }
 .page-nav{
     display: flex;
     flex-direction: row;
     gap: 76px;
     align-items: center;
+    padding: 24px 0 ;
 }
 .main-nav{
     display: flex;
     flex-direction: row;
     gap: 40px;
-     padding: 24px 0;
 }
 .contacts {
 display: flex;
