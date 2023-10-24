@@ -28,8 +28,7 @@ ul, ol{
     width:1158px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 0 15px;
 }
 span {
 font-family: "Raleway", sans-serif;
@@ -53,8 +52,7 @@ color: #4D5AE5;
 margin-right: 76px;
 }
 .page-header{
-    padding-top: 25.5px;
-    padding-bottom: 25.5px;
+    padding: 24px 0;
     border-bottom: 1px solid #e7e9fc
 }
 .footer-logo-part{
