@@ -28,7 +28,8 @@ ul, ol{
     width:1158px;
     margin-left: auto;
     margin-right: auto;
-    padding: 0 15px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 span {
 font-family: "Raleway", sans-serif;
@@ -333,19 +334,18 @@ color: var(--CLOUD, #F4F4FD);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 24px 0 ;
 }
 .page-nav{
     display: flex;
     flex-direction: row;
     gap: 76px;
     align-items: center;
-    padding: 24px 0 ;
 }
 .main-nav{
     display: flex;
     flex-direction: row;
     gap: 40px;
+     padding: 24px 0;
 }
 .contacts {
 display: flex;
